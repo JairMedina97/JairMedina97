@@ -5,7 +5,7 @@ I really enjoy studying and reading about economics :chart_with_upwards_trend:, 
 
 Native spanish speaker, full proficiency in English and learning basic German.
 
-Skills: C / Matlab / Python / Jupyter / CAD 
+Skills: Learning C / Matlab / Python / Jupyter / CAD 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairMedina97)](https://github.com/anuraghazra/github-readme-stats)
 
