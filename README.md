@@ -8,7 +8,9 @@ Native spanish speaker, full proficiency in English and learning basic German.
 Skills: Learning C / Matlab / Python / Jupyter / CAD 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairMedina97)](https://github.com/anuraghazra/github-readme-stats)
+- Compact layout
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairMedina97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
