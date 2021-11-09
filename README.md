@@ -1,6 +1,6 @@
 ### Hola 👋, I am Jair Medina
 #### Engineering and Data
-I'm Jair Medina from Mexico, I am a Petroleum engineer and currently a student of Electronics and Automation engineering :electron: in Monterrey :mexico:
+I'm Jair Medina from Mexico, I am a Petroleum engineer and currently a student of Electronics and Automation engineering in Monterrey :mexico:
 I really enjoy studying and reading about:
 - Economics :chart_with_upwards_trend:
 - Finance :dollar:
