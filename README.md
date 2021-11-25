@@ -11,7 +11,7 @@ I really enjoy studying and reading about:
 
 Native spanish speaker, full proficiency in English and learning basic German.
 
-Skills: Learning C / Matlab / Python / Jupyter / CAD 
+Skills: C / Python / Jupyter / Matlab / CAD 
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairMedina97)](https://github.com/anuraghazra/github-readme-stats)
