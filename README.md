@@ -1,7 +1,8 @@
 ### Hola 👋, I am Jair Medina
 #### I am Jair Medina from Mexico :mexico:
-I have a Petroleum engineering degree <class of 2020>, when I finished my PetE I realized how much I love automation, programming & data analysis so I've decided to enroll in the Electronics and Automation engineering program to enhance my skills and acumen as an engineer, currently a sophomore. 
-I consider myself passionate about technology, data maps (fan of scrolling in reddit), and learning from data in every way possible, My native language is spanish, I consider myself fluent in english and currently at a basic level in German. 
+Hallo Ich heiße Jair Medina, Ich komme aus Mexiko und bin vierundzwanzig jahre alt, Mein muttersprache ist spanisch, Ich spreche perfekt Englisch und ein bisschen Deutsch.
+I have a Petroleum engineering degree <class of 2020>, I am currently a student in the Electronics and Automation engineering program to enhance my skills and acumen as an engineer, currently a sophomore. 
+I consider myself passionate about technology, data maps (fan of scrolling in reddit), and learning from data in every way possible. 
 
 I really enjoy studying and reading about:
 - Economics :chart_with_upwards_trend:
