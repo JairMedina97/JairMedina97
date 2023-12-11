@@ -2,8 +2,8 @@
 #### I am Jair Medina from Mexico :mexico:
 Hallo Ich heiße Jair Medina, Ich komme aus Mexiko und bin vierundzwanzig jahre alt, Mein muttersprache ist spanisch, Ich spreche perfekt Englisch und ein bisschen Deutsch, Ich lerne seit einem Jahr Deutsch.
 
-I have a Petroleum engineering degree <class of 2020>, I am currently a student in the Electronics and Automation engineering program to enhance my skills and acumen as an engineer, currently a Junior year student. 
-I consider myself passionate about technology, data maps (fan of scrolling in reddit), and learning from data in every way possible. 
+I have a Petroleum engineering degree <class of 2020>, I am currently a student in the Electronics and Automation engineering program to enhance my skills and acumen as an engineer, currently a Senior year student. 
+I consider myself passionate about technology, data analytics, and learning from statistics in every way possible. 
 
 I really enjoy studying and reading about:
 - Economics :chart_with_upwards_trend:
